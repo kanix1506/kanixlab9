@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: นางสาวกนิษฐา เทาตัน
+# STUDENT ID: 670610743
